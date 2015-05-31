@@ -8,6 +8,14 @@ Tech Coordinators:<br>
 	4. Ankit Mund<br>
 
 WINGS :<br>
+	Web Development :<br>
+	co-ordiantors :<br> 
+	1. Saptak Sengupta
+	2. Anurag Sharma<br>
+	Members :<br>
+	1. Shubham Bhendarkar
+<br><br>
+
 //Add your wings along with your members and coordinator list.<br>
 //Wing Name:<br>
 //Co-ordinators:<br>
